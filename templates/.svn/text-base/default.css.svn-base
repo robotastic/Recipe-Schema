@@ -1,0 +1,16 @@
+
+#equipment_items {
+	width: 600px;
+
+	
+	
+	
+}
+
+.equipment_item {
+	width: 180px;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	height: 250px;
+}

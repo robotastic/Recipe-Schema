@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/608946/recipe-schema/trunk/inc
+END
+recipe-import-post-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/672797/recipe-schema/trunk/inc/recipe-import-post-list.php
+END
+feature-image-tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/584649/recipe-schema/trunk/inc/feature-image-tab.php
+END
+recipe-schema-client.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/684534/recipe-schema/trunk/inc/recipe-schema-client.php
+END
+post-recipe-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/672797/recipe-schema/trunk/inc/post-recipe-list.php
+END
+AmazonECS.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/672797/recipe-schema/trunk/inc/AmazonECS.class.php
+END
+amazon.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/672797/recipe-schema/trunk/inc/amazon.php
+END
+recipe.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/684534/recipe-schema/trunk/inc/recipe.php
+END

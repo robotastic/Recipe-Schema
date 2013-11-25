@@ -1,0 +1,191 @@
+#selected-text {
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #DFDFDF;
+	height: 400px;
+	float: left;
+	overflow: scroll;
+	width: 100%;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	padding: 10px;
+	
+}
+#tag-buttons {
+	float: left;
+	clear: both;
+}
+
+#recipe-review {
+	max-width: 600px;
+}
+#recipe-schema-form {
+	max-width: 600px;
+}
+
+#recipe-text-selection {
+	max-width: 800px;
+}
+
+#optional {
+	width: 100%;
+	overflow: hidden;
+}
+#optional label, #recipe-schema-form label {
+	display: block;
+	clear: both;
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+#optional input[type=text], #recipe-schema-form input[type=text] {
+	padding: 5px;
+}
+#optional #title, #recipe-schema-form #title {
+	width: 100%;
+	font-size: 24px;
+}
+
+#optional .time {
+	
+}
+
+#optional textarea, #recipe-schema-form textarea {
+	width: 100%;
+	min-height: 175px;	
+}
+
+#recipe_schema_notes_box textarea {
+	width: 100%;
+	min-height: 175px;	
+}
+
+
+#recipe_schema_direction_box textarea {
+	width: 100%;
+	min-height: 175px;	
+}
+
+#recipe_schema_ingredient_box textarea {
+	width: 100%;
+	min-height: 175px;	
+}
+
+.item-block {
+	float: left;
+	width: 200px;
+}
+.time {
+	width: 100px;
+	margin-right: 10px;
+}
+span.hl { background: yellow; }
+.media-item {
+	margin: 3px 5px;
+}
+.media-item > .recipe-remove-button {
+	color: red;
+
+	margin-right: 5px;
+
+	font-weight: bolder;
+display: inline-block;
+vertical-align: middle;
+}
+
+.media-item > .recipe-title {
+
+	font-size: 20px;
+display: inline-block;
+vertical-align: baseline;
+}
+
+.media-item > .recipe-thumb {
+
+	margin-right: 5px;
+	margin-left: 5px;
+display: inline-block;
+vertical-align: bottom;
+}
+
+#image-selector {
+	height: 225px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	padding: 10px;
+	border: 1px solid #DFDFDF;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+#image-selector ul {
+	list-style-type:none; 
+	display:block;
+	white-space:nowrap;
+	height: 205px;
+}
+
+#image-selector li {
+	display: inline-block;
+	border: 5px solid #fff;
+	padding: 5px;
+}
+/*.description {
+	margin: 20px 50px;
+}*/
+.instruction {
+	margin:  20px 50px;
+	font-size: 18px;
+	color: #999;
+	line-height: 1.4em;
+	font-family: sans-serif;
+}
+
+.amazon_item {
+	float: left;
+	width: 180px;
+	padding: 10px;
+	margin: 10px;
+}
+.amazon_item img{
+	margin-left: 10px;
+}
+
+
+
+#recipe_equipment {
+	overflow: hidden;
+}
+
+#search_results {
+	overflow: hidden;
+}
+.taxlist {
+	float: left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 15px;
+}
+
+#checklist {
+    border: 1px solid #ccc;
+    list-style: none;
+    height: 10em;
+    overflow: auto;
+    width: 16em;
+}
+
+#checklist, #checklist li { margin: 0; padding: 0; }
+
+#checklist label {
+    display: block;
+    padding-left: 25px;
+    text-indent: -25px;
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
